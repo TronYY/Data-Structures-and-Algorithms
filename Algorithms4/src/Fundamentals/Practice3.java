@@ -8,7 +8,7 @@ public class Practice3 {
         String string1 = scanner1.next();
 
         Scanner scanner2 = new Scanner(System.in);
-        String string2 = scanner2.next();
+        String string2 = scanner2.next();//
 
         Scanner scanner3 = new Scanner(System.in);
         String string3 = scanner3.next();
