@@ -286,7 +286,20 @@ Set<String> set = new HashSet<>();
 ## $861_ScoreAfterFlippingMatrix_Greedy_M;
 1. 第一行是都翻为1,后面每列看0与1哪个多,0多的话这一列要翻
  
-       
+## $072_EditDistance_DP_H
+设函数dist(str1,st2)表示两个字符串str1与str2之间的编辑距离，若0表示空串，则边界条件
+- dist(0,str2)=strlen(str2)//都做增加
+- dist(str1,0)=strlen(str1)//都做删除
+
+现在求解dist(str1+a,str2+b) (a,b是单个字符)，则
+- 若采取str1 转为 str2+b，则要先操作dist(str1,str2+b)步，再加一步删除a
+- 若采取str1+a转为str2，则要先操作dist(str1+1,str2),再加一步增加b
+- 若采取str1转为上str2， 则根据a==b决定是否做替换，操作为
+dist(str1,str2)+1/0；
+
+dist()的参数是两个字符串，实际代码中，使用editDistanTable[i][j]表示str1[0..i-1]到str2[0..j-1]的编辑距离
+
+editDistanTable[i][j]=min{editDistanTable[i-1][j]+1，editDistanTable[i][j-1]+1，editDistanTable[i-1][j-1]+1/0}     
 
 
 

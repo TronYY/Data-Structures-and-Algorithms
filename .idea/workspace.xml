@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565186b5-781b-41bc-b117-48fbe1f20de9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/$072_EditDistance_DP_H.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordofOffer/src/ecsdjx_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordofOffer/src/ecsdjx_Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,29 +28,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
+          <entry key="java" value="22" />
           <entry key="md" value="1" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="22" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="167" />
-          <entry key="md" value="97" />
+          <entry key="java" value="703" />
+          <entry key="md" value="104" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="167" />
-          <entry key="Markdown" value="97" />
+          <entry key="JAVA" value="703" />
+          <entry key="Markdown" value="104" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -55,27 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/src/Hw.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms4/src/Test/FixedCapacityStackOfStringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms4/src/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -149,10 +131,28 @@
         <entry file="file://$PROJECT_DIR$/Leetcode/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="785">
-                <caret line="387" lean-forward="true" selection-start-line="387" selection-end-line="387" />
+              <first_editor relative-caret-position="408">
+                <caret line="301" column="108" selection-start-line="301" selection-start-column="108" selection-end-line="301" selection-end-column="108" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/$874_WalkingRobotSimulation_Greey_E/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/$072_EditDistance_DP_H.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-start-column="13" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -179,6 +179,7 @@
         <option value="$PROJECT_DIR$/Algorithms4/src/Fundamentals/RandomSeq.java" />
         <option value="$PROJECT_DIR$/Algorithms4/src/Fundamentals/Average.java" />
         <option value="$PROJECT_DIR$/Algorithms4/src/Fundamentals/Practice3.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/$072_EditDistance_DP_H.java" />
         <option value="$PROJECT_DIR$/Leetcode/README.md" />
       </list>
     </option>
@@ -195,7 +196,9 @@
     <option name="width" value="1232" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -216,6 +219,19 @@
             <path>
               <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="$874_WalkingRobotSimulation_Greey_E" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -228,6 +244,13 @@
               <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="SwordofOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="SwordofOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ecsdjx_Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -251,7 +274,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540144367533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540403352188" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -397,7 +420,7 @@
       <workItem from="1539940749917" duration="175000" />
       <workItem from="1539943441156" duration="2806000" />
       <workItem from="1539948891515" duration="12830000" />
-      <workItem from="1540229792278" duration="625000" />
+      <workItem from="1540229792278" duration="3709000" />
     </task>
     <servers />
   </component>
@@ -407,7 +430,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18258000" />
+    <option name="totallyTimeSpent" value="21342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1232" height="777" extended-state="0" />
@@ -596,11 +619,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SwordofOffer/src/ecsdjx_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/$874_WalkingRobotSimulation_Greey_E/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/$072_EditDistance_DP_H.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="785">
-            <caret line="387" lean-forward="true" selection-start-line="387" selection-end-line="387" />
+          <first_editor relative-caret-position="408">
+            <caret line="301" column="108" selection-start-line="301" selection-start-column="108" selection-end-line="301" selection-end-column="108" />
           </first_editor>
           <second_editor />
         </state>
