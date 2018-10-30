@@ -4,8 +4,8 @@ public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         int left=1,right=n,mid=0;
         while (left<right) {
-        	mid=left+(right-left)/2;//可以防止越界
-        	if (isBadVersion(mid)) right=mid;//是坏的，这个也可能是第一个坏的，所以不用减1
+        	mid=left+(right-left)/2;//鍙互闃叉瓒婄晫
+        	if (isBadVersion(mid)) right=mid;//鏄潖鐨勶紝杩欎釜涔熷彲鑳芥槸绗竴涓潖鐨勶紝鎵�浠ヤ笉鐢ㄥ噺1
         	else left=mid+1;
         }
         return left;
