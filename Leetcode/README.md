@@ -1,4 +1,4 @@
-﻿# LeetCode
+# LeetCode
 Solutions of leetcode
 
 
@@ -390,6 +390,13 @@ arrayList.add(listNode.val);//ArrayList添加
 ## jzoffer 斐波那契数列  
 另一种解法
 
+## jzoffer 面试题3 二维数字中的查找
+1. 可以从左下角或右上角开始
+2. length属性是针对Java中的数组来说的，要求数组的长度可以用其length属性；
+
+3. length()方法是针对字符串来说的，要求一个字符串的长度就要用到它的length()方法；
+
+4. java中的size()方法是针对泛型集合说的,如果想看这个泛型有多少个元素,就调用此方法来查看!
 
 
 ## 《图解算法》动态规划
