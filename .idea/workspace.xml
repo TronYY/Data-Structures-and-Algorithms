@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565186b5-781b-41bc-b117-48fbe1f20de9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordofOffer/src/thkg_Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordofOffer/src/剑指offer 名企面试官精讲典型编程题.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/SwordofOffer/src/剑指offer 名企面试官精讲典型编程题.pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,13 +20,13 @@
     <session id="-1756419046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,14 +49,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2097" />
+          <entry key="java" value="2123" />
           <entry key="md" value="136" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2097" />
+          <entry key="JAVA" value="2123" />
           <entry key="Markdown" value="136" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -85,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms4/src/Test/FixedCapacityStackOfStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="85">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,11 +95,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../LeetCode/src/$002_AddTwoNumbers/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="-7">
               <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SwordofOffer/src/$04_ReplaceBlank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -143,6 +153,7 @@
         <option value="$PROJECT_DIR$/../LeetCode/src/$001_TwoSum/HelloWorld.java" />
         <option value="$PROJECT_DIR$/../LeetCode/src/$002_AddTwoNumbers/Test.java" />
         <option value="$PROJECT_DIR$/SwordofOffer/src/Solution3.java" />
+        <option value="$PROJECT_DIR$/SwordofOffer/src/$04_ReplaceBlank.java" />
       </list>
     </option>
   </component>
@@ -166,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -179,6 +189,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,6 +312,8 @@
       <workItem from="1541695381491" duration="5000" />
       <workItem from="1547345749383" duration="31000" />
       <workItem from="1547345810336" duration="605000" />
+      <workItem from="1547524662252" duration="2000" />
+      <workItem from="1547524665910" duration="88000" />
     </task>
     <servers />
   </component>
@@ -310,7 +323,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36040000" />
+    <option name="totallyTimeSpent" value="36130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,7 +338,7 @@
     <frame x="36" y="23" width="1244" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.297005" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30199668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -597,6 +610,13 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/src/$001_TwoSum/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/SwordofOffer/src/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms4/src/ExtendeBinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -613,7 +633,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms4/src/Test/FixedCapacityStackOfStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -621,17 +641,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwordofOffer/src/Solution3.java">
+    <entry file="file://$PROJECT_DIR$/../LeetCode/src/$002_AddTwoNumbers/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="-7">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/src/$002_AddTwoNumbers/Test.java">
+    <entry file="file://$PROJECT_DIR$/SwordofOffer/src/$04_ReplaceBlank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>

@@ -1,3 +1,28 @@
+public class $04_ReplaceBlank {
+    public String replaceSpace(StringBuffer str) {
+        int originalLength = str.length();
+        int newLength = originalLength;
+        for (int i = 0;i < originalLength; i++)
+            if (str.charAt(i) == ' ') newLength += 2;
+        str.setLength(newLength);//不包含\0
+        int p1 = newLength - 1;
+        int p0 = originalLength - 1;
+        while (p0 >= 0) {
+            if (str.charAt(p0) == ' ') {
+                str.setCharAt(p1--,'0');
+                str.setCharAt(p1--,'2');
+                str.setCharAt(p1--,'%');
+                p0--;
+            }
+            else str.setCharAt(p1--,str.charAt(p0--));
+        }
+        return str.toString();
+
+    }
+}
+
+/**
+
 public class Solution {
     public String replaceSpace(StringBuffer str) {
         int len=str.length(),i=0;
@@ -12,6 +37,7 @@ public class Solution {
         return str.toString();
     }
 }
+*/
 /**
 当对字符串进行修改的时候，需要使用 StringBuffer 和 StringBuilder 类。
 
