@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="565186b5-781b-41bc-b117-48fbe1f20de9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordofOffer/src/thkg_Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordofOffer/src/剑指offer 名企面试官精讲典型编程题.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/SwordofOffer/src/剑指offer 名企面试官精讲典型编程题.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="565186b5-781b-41bc-b117-48fbe1f20de9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SwordofOffer/src/$04_ReplaceBlank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="272">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -163,7 +159,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="36" />
     <option name="y" value="23" />
     <option name="width" value="1244" />
@@ -313,7 +309,7 @@
       <workItem from="1547345749383" duration="31000" />
       <workItem from="1547345810336" duration="605000" />
       <workItem from="1547524662252" duration="2000" />
-      <workItem from="1547524665910" duration="88000" />
+      <workItem from="1547524665910" duration="541000" />
     </task>
     <servers />
   </component>
@@ -323,7 +319,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36130000" />
+    <option name="totallyTimeSpent" value="36583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,7 +331,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="23" width="1244" height="777" extended-state="0" />
+    <frame x="36" y="23" width="1244" height="777" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30199668" />
@@ -650,8 +646,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordofOffer/src/$04_ReplaceBlank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="272">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="54" />
         </state>
       </provider>
     </entry>

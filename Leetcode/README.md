@@ -403,7 +403,10 @@ arrayList.add(listNode.val);//ArrayList添加
 2. 为了节省内存，C/C++内存模型把字符串常量放到单独的一个内存区域；  
 当几个指针指向相同的字符串常量的时候，他们实际上会指向常量区那个的内存地址；  
 但是用字符串常量初始化数组，情况却不一样.
-3. java字符串访问不是用[],而是charAt()与setCharAt(i)如str.setCharAt(p1--,str.charAt(p0--));
+3. java字符串访问不是用[],而是charAt()与setCharAt(i)如str.setCharAt(p1--,str.charAt(p0--));  
+
+## jzoffer $05 反向输出链表  
+1. 可以用栈或递归，递归来相同实现栈的功能，但是递归过深可能栈溢出 显示用栈基于循环的栈鲁棒性要强一些
 
 
 
