@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="565186b5-781b-41bc-b117-48fbe1f20de9" name="Default Changelist" comment="" />
+    <list default="true" id="565186b5-781b-41bc-b117-48fbe1f20de9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +18,21 @@
     <session id="-1756419046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="61" />
+          <entry key="java" value="62" />
           <entry key="md" value="2" />
           <entry key="txt" value="2" />
         </counts>
@@ -38,7 +41,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="61" />
+          <entry key="JAVA" value="62" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -94,18 +97,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../LeetCode/src/$002_AddTwoNumbers/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="646">
               <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordofOffer/src/$04_ReplaceBlank.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="54" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="54" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/$105_ConstructBinaryTreefromPreorderandInorderTraversal_DFS/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32" />
           </provider>
         </entry>
       </file>
@@ -159,7 +169,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="36" />
     <option name="y" value="23" />
     <option name="width" value="1244" />
@@ -174,6 +184,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +196,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,6 +320,8 @@
       <workItem from="1547345810336" duration="605000" />
       <workItem from="1547524662252" duration="2000" />
       <workItem from="1547524665910" duration="541000" />
+      <workItem from="1547692298998" duration="5000" />
+      <workItem from="1547692306779" duration="6000" />
     </task>
     <servers />
   </component>
@@ -319,7 +331,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36583000" />
+    <option name="totallyTimeSpent" value="36594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,10 +343,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="23" width="1244" height="777" extended-state="1" />
+    <frame x="36" y="23" width="1244" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30199668" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31198004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -639,7 +651,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/src/$002_AddTwoNumbers/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="646">
           <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
         </state>
       </provider>
@@ -649,6 +661,11 @@
         <state relative-caret-position="272">
           <caret line="16" column="54" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="54" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/$105_ConstructBinaryTreefromPreorderandInorderTraversal_DFS/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32" />
       </provider>
     </entry>
   </component>

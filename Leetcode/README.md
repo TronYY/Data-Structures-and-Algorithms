@@ -385,7 +385,7 @@ editDistanTable[i][j]=min{editDistanTable[i-1][j]+1，editDistanTable[i][j-1]+1�
 1. ArrayList<Integer> arrayList=new ArrayList<Integer>();//ArrayList初始化  
 arrayList.add(listNode.val);//ArrayList添加  
 ## jzoffer 重建二叉树 cxess 从前中序构造二叉树  
-1. 注意利用//前序的根+左=中序的左+根
+1. 注意利用//长度上前序的根+左=中序的左+根
 
 ## jzoffer 斐波那契数列  
 另一种解法

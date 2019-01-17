@@ -1,4 +1,4 @@
-public class Solution {
+public class $06_ReConstructBinaryTree_BT {
     public TreeNode reConstructBinaryTree(int [] pre,int [] in) {
         return build(pre,in,0,pre.length-1,0,in.length-1);
         
@@ -10,7 +10,7 @@ public class Solution {
         if (ps==pe) return root;
         for (int i=is;i<=ie;i++) {
             if (in[i]==pre[ps]) {
-                root.left=build(pre,in,ps+1,i+ps-is,is,i-1);//Ç°ÐòµÄ¸ù+×ó=ÖÐÐòµÄ×ó+¸ù
+                root.left=build(pre,in,ps+1,i+ps-is,is,i-1);//é•¿åº¦ä¸Šå‰åºçš„æ ¹+å·¦=ä¸­åºçš„å·¦+æ ¹
                 root.right=build(pre,in,i+ps-is+1,pe,i+1,ie);
                 break;
             }
