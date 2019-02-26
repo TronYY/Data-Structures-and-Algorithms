@@ -408,10 +408,12 @@ arrayList.add(listNode.val);//ArrayList添加
 ## jzoffer $05 反向输出链表  
 1. 可以用栈或递归，递归来相同实现栈的功能，但是递归过深可能栈溢出 显示用栈基于循环的栈鲁棒性要强一些
 
-## jzoffer $06 两个栈实现队列
+## jzoffer $07 两个栈实现队列
 1. push就直接放入一号栈
 2. pop弹出二号栈顶部元素，如果二号栈为空，把一号栈的拿过来
 
+## jzoffer $08_MinNumberInRotateArray 两个栈实现队列
+1. //分== > < 三种情况
 
 
 ## 《图解算法》动态规划
