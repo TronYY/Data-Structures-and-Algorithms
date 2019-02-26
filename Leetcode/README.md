@@ -415,6 +415,8 @@ arrayList.add(listNode.val);//ArrayList添加
 ## jzoffer $08_MinNumberInRotateArray 两个栈实现队列
 1. //分== > < 三种情况
 
+## jzoffer $10_Numberof1InBinary
+1. 把一个整数减1，再和原整数& 能把整数最右边的1变成0
 
 ## 《图解算法》动态规划
 1. 每个动态规划都从一个网格开始  
